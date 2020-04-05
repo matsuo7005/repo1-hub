@@ -1,7 +1,4 @@
 # コメント
-*.html
-!sample.html
 
 ignorefiles/
-!important/
 
